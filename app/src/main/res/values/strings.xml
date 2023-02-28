@@ -1,14 +1,15 @@
 <resources>
     <string name="app_name">Hello Squirrel</string>
 
-    <string name="first_name">FIRST</string>
-    <string name="last_name">LAST</string>
+    <string name="first_name">Jinda</string>
+    <string name="last_name">Zhang</string>
     <string name="full_name">%s %s</string>
 
-    <string name="profile_bio_text">This a short bio about myself.\nIt has multiple lines because I am\na complex being.</string>
+    <string name="profile_bio_text">A Creative, detail-oriented, software engineer with a deep interest in software development, AI, ML. Proven track record of creating and implementing successful front and back-end applications. Looking to bring my skills to a tech company with global reach.
+</string>
 
     <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
-    <string name="profile_hobby_first_text">🥇 FIRST HOBBY</string>
-    <string name="profile_hobby_second_text">🥈 SECOND HOBBY</string>
-    <string name="profile_hobby_third_text">🥉 THIRD HOBBY</string>
+    <string name="profile_hobby_first_text">🥇 Reading</string>
+    <string name="profile_hobby_second_text">🥈 Programming</string>
+    <string name="profile_hobby_third_text">🥉 Meditation</string>
 </resources>
